@@ -3,6 +3,7 @@
 Created on Thu Jun  6 13:54:30 2019
 
 @author: HP
+Computes the roots of a quadratic equation using the Quadratic Formula
 """
 
 import math
