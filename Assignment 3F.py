@@ -2,7 +2,9 @@
 """
 Created on Sun Jun  9 00:16:28 2019
 
-@author: HP
+@author: Samyak Shah
+Function tells if a goal is valid or not
+Returns "True" or "False" as a string
 """
 
 import math
