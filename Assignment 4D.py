@@ -1,4 +1,5 @@
 # using vectorized computations for better
+# Computes the rate of fermentation
 import math
 import numpy as np
 def fermentationRate(measuredRate, lowerBound, upperBound):
