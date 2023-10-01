@@ -3,6 +3,9 @@
 Created on Wed Jun 12 21:55:30 2019
 
 @author: HP
+# use iloc and use naming as in normal numpy array
+# but first convery to numpy
+# be careful about the case sensitivity of names
 """
 
 import numpy as np
