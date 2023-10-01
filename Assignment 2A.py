@@ -3,6 +3,7 @@
 Created on Fri Jun  7 16:28:41 2019
 
 @author: HP
+Taylor series computation
 """
 
 def evaluateTaylor (x):
